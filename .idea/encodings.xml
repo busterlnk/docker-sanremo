@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/back-sanremo/README.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sanremo-api/README.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sanremo-api/config/packages/doctrine_migrations.yaml" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/sanremo-api/config/routes.yaml" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/sanremo-api/config/routes/api_platform.yaml" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/sanremo-api/config/routes/framework.yaml" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/sanremo-api/config/routes/web_profiler.yaml" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/sanremo-api/front/Dockerfile" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/sanremo-api/front/npm_starter.sh" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sanremo-api/migrations/.gitignore" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/sanremo-api/src/Controller/Mercure/PublishController.php" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/sanremo-api/src/Controller/TenisGamesController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sanremo-app/src/hooks/MercureConection.jsx" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/sanremo-app/src/pages/PadelGamePage.jsx" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sanremo-app/src/pages/SquashGamePage.jsx" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sanremo-app/src/pages/TenisGamePage.jsx" charset="GBK" />
+  </component>
+</project>
