@@ -34,6 +34,7 @@ services:
     volumes:
       - ./back-sanremo:/var/www/html
       - ./front-sanremo/nginx/default.conf:/etc/nginx/conf.d/default.conf
+      - ./front-sanremo/build:/app
     networks:
       - app
     depends_on:
@@ -65,17 +66,17 @@ services:
       - app
 ###< symfony/mercure-bundle ###
 
-
-  frontend:
-    build:
-      context: ./front-sanremo
-      dockerfile: Dockerfile
-    ports:
-      - '3000:3000'
-    volumes:
-      - ./front-sanremo/:/app
-    networks:
-      - app
+#
+#  frontend:
+#    build:
+#      context: ./front-sanremo
+#      dockerfile: Dockerfile
+#    ports:
+#      - '3000:3000'
+#    volumes:
+#      - ./front-sanremo/:/app
+#    networks:
+#      - app
 
 volumes:
   database_data:
