@@ -5,13 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2c9ff0e-e1ab-4717-b8d1-5cea9a63c24f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose-local.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-sanremo/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-sanremo/nginx/default-dev.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-sanremo/src/pages/Common/NotFound.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-sanremo/src/pages/Common/Register.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-sanremo" beforeDir="false" afterPath="$PROJECT_DIR$/back-sanremo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front-sanremo/nginx/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/nginx/default.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/styles/game.css" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/styles/game.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/api/api.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/api/api.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/api/request/agentRequest.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/api/request/agentRequest.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/components/ModalNewPadelGame.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/components/modals/ModalNewPadelGame.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/components/ModalNewPadelTournament.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/components/modals/ModalNewPadelTournament.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/components/ModalNewSquashGame.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/components/modals/ModalNewSquashGame.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/components/ModalNewTenisGame.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/components/modals/ModalNewTenisGame.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/hooks/MercureConection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/hooks/MercureConection.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/pages/HistoryPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/pages/UserPages/HistoryPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/pages/UserPages/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/pages/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/pages/Common/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/pages/PadelGamePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/pages/GamePages/PadelGamePage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/pages/SportPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/pages/SportPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/pages/SquashGamePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/pages/GamePages/SquashGamePage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/pages/TenisGamePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/pages/GamePages/TenisGamePage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo/src/pages/TournamentsPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/pages/TournamentsPage.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,29 +237,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/franco/Proyectos/sarton-docker&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/snap/phpstorm/426/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "uat",
+    "last_opened_file_path": "/home/franco/Proyectos/sanremo/front-sanremo/src/components/modals",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/snap/phpstorm/436/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/sanremo-app/src/components" />
       <recent name="$PROJECT_DIR$/sanremo-app/src/pages" />
       <recent name="$PROJECT_DIR$/sanremo-app/src/api/request" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/front-sanremo/src/components/common/js" />
-      <recent name="$PROJECT_DIR$/sanremo-api/nginx" />
+      <recent name="$PROJECT_DIR$/front-sanremo/src/components/modals" />
+      <recent name="$PROJECT_DIR$/front-sanremo/src/pages/Common" />
+      <recent name="$PROJECT_DIR$/front-sanremo" />
+      <recent name="$PROJECT_DIR$/front-sanremo/src/pages/UserPages" />
+      <recent name="$PROJECT_DIR$/front-sanremo/src/pages/GamePages" />
     </key>
   </component>
   <component name="RunManager">
@@ -251,8 +275,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23339.16" />
-        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23339.16" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23726.107" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23726.107" />
       </set>
     </attachedChunks>
   </component>
@@ -278,7 +302,10 @@
       <workItem from="1727966237547" duration="7382000" />
       <workItem from="1728288484959" duration="13523000" />
       <workItem from="1728551723173" duration="13169000" />
-      <workItem from="1728893342702" duration="10443000" />
+      <workItem from="1728893342702" duration="16509000" />
+      <workItem from="1729169853799" duration="622000" />
+      <workItem from="1729237816082" duration="308000" />
+      <workItem from="1730216845573" duration="5311000" />
     </task>
     <servers />
   </component>
