@@ -1,6 +1,6 @@
 .DEFAULT_GOAL := help
 
-local-prod: image_local
+local-prod:
 	docker compose up --build -d
 
 start-prod:

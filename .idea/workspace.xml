@@ -5,33 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2c9ff0e-e1ab-4717-b8d1-5cea9a63c24f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose-local.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-sanremo/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-sanremo/nginx/default-dev.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-sanremo/src/pages/Common/NotFound.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-sanremo/src/pages/Common/Register.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/nginx/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/nginx/default.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/api/api.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/api/api.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/api/request/agentRequest.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/api/request/agentRequest.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/components/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/components/ModalNewPadelGame.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/components/modals/ModalNewPadelGame.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/components/ModalNewPadelTournament.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/components/modals/ModalNewPadelTournament.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/components/ModalNewSquashGame.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/components/modals/ModalNewSquashGame.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/components/ModalNewTenisGame.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/components/modals/ModalNewTenisGame.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/hooks/MercureConection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/hooks/MercureConection.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/pages/HistoryPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/pages/UserPages/HistoryPage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/pages/UserPages/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/pages/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/pages/Common/Login.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/pages/PadelGamePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/pages/GamePages/PadelGamePage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/pages/SportPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/pages/SportPage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/pages/SquashGamePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/pages/GamePages/SquashGamePage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/pages/TenisGamePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/pages/GamePages/TenisGamePage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-sanremo/src/pages/TournamentsPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo/src/pages/TournamentsPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-sanremo" beforeDir="false" afterPath="$PROJECT_DIR$/front-sanremo" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +20,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/front-sanremo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php">
     <include_path>
@@ -305,7 +282,8 @@
       <workItem from="1728893342702" duration="16509000" />
       <workItem from="1729169853799" duration="622000" />
       <workItem from="1729237816082" duration="308000" />
-      <workItem from="1730216845573" duration="5311000" />
+      <workItem from="1730216845573" duration="8370000" />
+      <workItem from="1730708293654" duration="8824000" />
     </task>
     <servers />
   </component>
